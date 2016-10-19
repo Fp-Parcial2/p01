@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package fp.problema.pkg01;
 import java.util.*;
 
 public class FpProblema01 {
-
- /**
+/**
   Problemas.
 1. Escribir un programa que determine si un año es bisiesto. Una año es bisiesto si el múltiplo de 4.
 * (Ej. 1984. Los años múltiplos de 100 no son bisiestos, salvo si ellos son también múltiplos de 400 
